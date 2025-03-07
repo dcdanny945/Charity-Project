@@ -3098,8 +3098,8 @@ blockquote {
 
   .nav_wrap {
     object-fit: cover;
-    padding-left: 18%;
-    padding-right: 0%;
+    /* padding-left: 1rem; */
+    /* padding-right: 10%; */
     overflow: hidden;
   }
 
@@ -3109,7 +3109,8 @@ blockquote {
 
   .nav_brand.w--current {
     text-align: center;
-    margin-left: 0%;
+    /* margin-left: 0%; */
+    padding-right: 10%;
   }
 
   .nav_menu-items {
