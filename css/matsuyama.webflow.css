@@ -1791,7 +1791,7 @@ blockquote {
   grid-row-gap: 0px;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: 100vw;
   max-width: 72.875rem;
   height: 100%;
   margin-left: auto;
